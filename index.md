@@ -2,13 +2,10 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+[] Fuck bitches
+<br>
+[] Get Money
 
 <br>
 
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+[x] Smoke weed
