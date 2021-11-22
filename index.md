@@ -1,14 +1,9 @@
----
-layout: default
----
+- Smoke weed
 
-{% include 01-name.md %}
+- Get Money
 
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+- Fuck bitches
+   
+   * We don't love em
+   
+   * We smut em
