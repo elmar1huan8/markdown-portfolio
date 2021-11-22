@@ -1,9 +1,9 @@
-* Smoke weed
+- Smoke weed
 
-* Get Money
+- Get Money
 
-* Fuck bitches
+- Fuck bitches
    
-   - We don't love em
+   * We don't love em
    
-   - We smut em
+   * We smut em
