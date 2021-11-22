@@ -1,8 +1,3 @@
----
-layout: default
----
-
-
 * Smoke weed
 
 * Get Money
